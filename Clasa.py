@@ -42,7 +42,7 @@ class Queue:
             curr = curr.next
         return repr(coada)
 
-
+# am bagat si astea din VS sa vad ca merg dar e ok si asa 
 my_queue = Queue()
 
 my_queue.add(1)
